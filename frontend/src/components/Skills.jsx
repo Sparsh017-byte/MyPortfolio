@@ -1,4 +1,4 @@
-import "./skills.css";
+import "./Skills.css";
 
 const skills = [
   { name: "React.js", img: "/skills/React.png" },
