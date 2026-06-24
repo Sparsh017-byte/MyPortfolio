@@ -5,7 +5,7 @@ const codingProfiles = [
     title: "LeetCode",
     username: "Sparsh017",
     img: "/profiles/leetcode.png",
-    link: "https://leetcode.com/u/Sparsh017/",
+    link: "https://leetcode.com/u/Sparsh01777/",
   },
   {
     title: "Codeforces",
